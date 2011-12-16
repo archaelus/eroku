@@ -1,0 +1,12 @@
+{application, eroku,
+ [{description, "Heroku convenience library"}
+  ,{vsn, "1"}
+  ,{registered, []}
+  ,{applications,
+    [kernel
+     ,stdlib
+    ]}
+  ,{env,
+    [
+    ]}
+ ]}.
